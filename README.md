@@ -34,6 +34,6 @@ Techs that I've used at least once
   <h2>💪 STATS 💪</h2> 
   
  <!-- GitHub Stats -->
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gksckddn2877&hide=contribs,prs&count_private=true&show_icons=true&theme=vue&title_color=1B4D73&icon_color=1B4D73)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gksckddn&hide=contribs,prs&count_private=true&show_icons=true&theme=vue&title_color=1B4D73&icon_color=1B4D73)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxxxxn&layout=compact&title_color=1B4D73)](https://github.com/anuraghazra/github-readme-stats)
 </div>
