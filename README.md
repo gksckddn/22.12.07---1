@@ -1,5 +1,4 @@
-# 22.12.07---1
-First Project Practice for GitHub
+
 <div align="center">
 
 
